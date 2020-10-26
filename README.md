@@ -3,6 +3,7 @@
 Team members:
   - Tij Sachdeva (ksachdev)
   - Gillien Froilan (froilan)
+
 Instructor: 
   - Karim Ali
   
